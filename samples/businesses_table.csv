@@ -1,0 +1,103 @@
+# Table for 100 first results of california businesses on yelp
+
+
+1	South Gate Brewing Company	4	\N	0	1	1	1	2020-04-19 21:59:39
+2	The Cool Bean Cafe	4.5	\N	0	0	1	1	2020-04-19 21:59:40
+3	Plazuelas Mexican Restaurant & Taqueria	4.5	\N	0	0	1	2	2020-04-19 21:59:42
+4	Miller's Landing	4.5	\N	0	1	2	3	2020-04-19 21:59:44
+5	Erna's Elderberry House	4.5	\N	0	0	1	4	2020-04-19 21:59:45
+6	Casa Velasco Mexican Restaurant	4.5	\N	0	1	2	5	2020-04-19 21:59:46
+7	Love Cafe	5	\N	0	0	1	6	2020-04-19 21:59:48
+8	Pete's Place	4.5	\N	0	1	1	5	2020-04-19 21:59:49
+9	Wild Fig Kitchen	4.5	\N	0	1	3	7	2020-04-19 21:59:51
+10	Shaver Lake Pizza	3.5	\N	0	1	4	8	2020-04-19 21:59:52
+11	Yosemite National Park	4.5	https://en.wikipedia.org/wiki/Yosemite_National_Park	0	1	5	9	2020-04-19 21:59:53
+12	Seasons Bistro and Tavern	4.5	\N	0	1	4	10	2020-04-19 21:59:55
+13	Ducey's on the Lake	3.5	\N	0	1	2	11	2020-04-19 21:59:56
+14	Huntington Lake	4.5	https://en.wikipedia.org/wiki/Huntington_Lake	0	0	6	12	2020-04-19 21:59:58
+15	REV's Farm House	4.5	\N	0	1	1	13	2020-04-19 22:00:00
+16	Cressman's General Store	5	\N	0	1	4	14	2020-04-19 22:00:01
+17	SKADI	5	\N	0	1	7	15	2020-04-19 22:00:03
+18	Bob's Blue Sky Cafe	3.5	\N	0	1	4	14	2020-04-19 22:00:04
+19	Black Velvet Coffee	4.5	\N	0	1	7	16	2020-04-19 22:00:06
+20	Shaver Lake Pub N Grub	4	\N	0	1	4	17	2020-04-19 22:00:07
+21	Reimer's Candies & Gifts	4.5	\N	0	1	1	14	2020-04-19 22:00:08
+22	The Stove Restaurant	4	\N	0	1	7	18	2020-04-19 22:00:10
+23	Dog House Grill	4	\N	0	1	8	19	2020-04-19 22:00:12
+24	Hungry Hut	3.5	\N	0	1	4	20	2020-04-19 22:00:13
+25	Half Dome Day Hike	5	\N	0	0	9	21	2020-04-19 22:00:14
+26	Toomey's	4	\N	0	1	7	22	2020-04-19 22:00:16
+27	Dicicco's Italian Restaurant	4	\N	0	1	1	23	2020-04-19 22:00:17
+28	House of JuJu	4.5	\N	0	1	10	24	2020-04-19 22:00:18
+29	El Cid Mexican Cuisine	3.5	\N	0	1	1	25	2020-04-19 22:00:20
+30	Shaver Coffee & Deli	4	\N	0	1	4	8	2020-04-19 22:00:21
+31	Don Fernando's	5	\N	0	1	10	26	2020-04-19 22:00:22
+32	The Cake Barn	5	\N	0	1	11	27	2020-04-19 22:00:24
+33	The Mogul Restaurant	4.5	\N	0	1	7	28	2020-04-19 22:00:25
+34	Roberto's Cafe	4	\N	0	1	7	29	2020-04-19 22:00:27
+35	Batter Up Pancakes	4.5	\N	0	1	8	30	2020-04-19 22:00:28
+36	Rocket Dog Gourmet Brats & Brew	4.5	\N	0	1	8	31	2020-04-19 22:00:30
+37	Heirloom	4.5	https://en.wikipedia.org/wiki/Heirloom	0	1	8	32	2020-04-19 22:00:31
+38	Red Apple Cafe	4.5	\N	0	1	8	33	2020-04-19 22:00:33
+39	Mariposa Grove of Giant Sequoias	4.5	\N	0	0	9	34	2020-04-19 22:00:34
+40	The Trading Post	3.5	\N	0	0	4	35	2020-04-19 22:00:36
+41	The Annex Kitchen	4.5	\N	0	0	8	24	2020-04-19 22:00:37
+42	The Forks Resort	3.5	\N	0	1	2	36	2020-04-19 22:00:39
+43	53 Kitchen & Cocktails	4	\N	0	1	7	37	2020-04-19 22:00:40
+44	Sugar Pine Pizza	4	\N	0	1	1	38	2020-04-19 22:00:41
+45	The Craft House	4.5	\N	0	1	10	39	2020-04-19 22:00:43
+46	China Delight	3.5	\N	0	1	1	40	2020-04-19 22:00:44
+47	Sam's Italian Deli & Market	4.5	\N	0	0	8	30	2020-04-19 22:00:46
+48	Ampersand Ice Cream	4.5	\N	0	1	8	41	2020-04-19 22:00:47
+49	Velasco's Mexican Restaurant	4	\N	0	0	12	42	2020-04-19 22:00:50
+50	Bass Lake Recreation Area	4	\N	0	0	2	43	2020-04-19 22:00:52
+51	Pizza Factory Oakhurst	3.5	\N	0	1	1	44	2020-04-19 22:00:53
+52	Kuppa Joy Coffee House	4.5	\N	0	0	10	45	2020-04-19 22:00:54
+53	Mammoth Rock Brasserie	4.5	\N	0	1	7	46	2020-04-19 22:00:56
+54	La Cabana	4	\N	0	0	13	47	2020-04-19 22:00:57
+55	Good Life Cafe	4	https://en.wikipedia.org/wiki/Good_Life_Cafe	0	1	7	48	2020-04-19 22:00:58
+56	Vernal Fall	5	https://en.wikipedia.org/wiki/Vernal_Fall	0	0	9	49	2020-04-19 22:01:00
+57	Latin Market Taqueria	4.5	\N	0	1	7	50	2020-04-19 22:01:01
+58	Shaver Lake	4.5	https://en.wikipedia.org/wiki/Shaver_Lake	0	0	14	51	2020-04-19 22:01:03
+59	Giovanni's	4	\N	0	1	7	52	2020-04-19 22:01:04
+60	Stellar Brew & Natural Cafe	4	\N	0	1	7	53	2020-04-19 22:01:06
+61	Phoenician Garden Mediterranean Bar and Grill	4.5	\N	0	1	8	54	2020-04-19 22:01:07
+62	Mammoth Tavern	4	\N	0	1	7	55	2020-04-19 22:01:09
+63	Glacier Point	5	https://en.wikipedia.org/wiki/Glacier_Point	0	0	15	56	2020-04-19 22:01:10
+64	Carrillo's Mexican Food	4.5	\N	0	1	10	57	2020-04-19 22:01:11
+65	John's Pizza Works	4	\N	0	1	7	58	2020-04-19 22:01:13
+66	Hino Oishi	4.5	\N	0	1	8	59	2020-04-19 22:01:14
+67	Benaddiction	4	\N	0	1	8	60	2020-04-19 22:01:16
+68	The Warming Hut	4.5	\N	0	1	7	61	2020-04-19 22:01:17
+69	Colton's Social House	4	\N	0	1	10	62	2020-04-19 22:01:19
+70	Tollhouse Market & Grill	4.5	\N	0	1	16	63	2020-04-19 22:01:20
+71	Lewis Creek Trail	4.5	\N	0	0	1	64	2020-04-19 22:01:21
+72	Ararat Market	4.5	\N	0	0	10	65	2020-04-19 22:01:24
+73	Oakhurst Grill	3.5	\N	0	1	1	4	2020-04-19 22:01:25
+74	Campo Mammoth	3.5	\N	0	1	7	66	2020-04-19 22:01:26
+75	Jus' Jo's Country Kitchen	4	\N	0	1	10	51	2020-04-19 22:01:28
+76	Slice of India	4.5	\N	0	0	10	67	2020-04-19 22:01:29
+77	Shorthorn Bar and Grill	4	\N	0	1	4	68	2020-04-19 22:01:30
+78	SabaiDee Thai Lao Cuisine	4	\N	0	0	8	32	2020-04-19 22:01:32
+79	Burgers Restaurant	4	\N	0	1	7	69	2020-04-19 22:01:33
+80	Smokeyard BBQ and Chop Shop	3.5	\N	0	1	7	70	2020-04-19 22:01:35
+81	Petra's Bistro & Wine Bar	4	\N	0	1	7	71	2020-04-19 22:01:36
+82	Round Table Pizza	4	https://en.wikipedia.org/wiki/Round_Table_Pizza	0	1	1	72	2020-04-19 22:01:38
+83	Yosemite Falls	4.5	https://en.wikipedia.org/wiki/Yosemite_Falls	0	0	5	73	2020-04-19 22:01:39
+84	Pismo's Coastal Grill	4	\N	0	1	8	74	2020-04-19 22:01:40
+85	Osito's Mexican Pub	4	\N	0	1	4	75	2020-04-19 22:01:42
+86	Jimmy's Taverna	4	\N	0	1	7	76	2020-04-19 22:01:43
+87	Pokiland	4	\N	0	1	8	77	2020-04-19 22:01:44
+88	Ark Mediterranean Grill	4.5	\N	0	1	8	78	2020-04-19 22:01:46
+89	Vintage Steakhouse	4.5	\N	0	1	3	79	2020-04-19 22:01:47
+90	Mike's Grill	4.5	\N	0	0	8	80	2020-04-19 22:01:49
+91	Westwoods BBQ & Spice	3.5	\N	0	1	8	45	2020-04-19 22:01:51
+92	The Curry Pizza Company	4.5	\N	0	1	8	81	2020-04-19 22:01:53
+93	Pita Pit	4	https://en.wikipedia.org/wiki/Pita_Pit	0	1	7	82	2020-04-19 22:01:54
+94	Schat's Bakery	3.5	\N	0	1	7	83	2020-04-19 22:01:56
+95	SAMURAI	4	\N	0	1	7	52	2020-04-19 22:01:57
+96	Chef Paul's Cafe	4.5	\N	0	1	8	84	2020-04-19 22:01:59
+97	Charles Street Dinner House	4.5	\N	0	1	17	85	2020-04-19 22:02:00
+98	DOY Grill	4.5	\N	0	1	10	86	2020-04-19 22:02:02
+99	Elixir Superfood & Juice	5	\N	0	1	7	48	2020-04-19 22:02:03
+100	Bowlzeye	4.5	\N	0	1	10	87	2020-04-19 22:02:04
