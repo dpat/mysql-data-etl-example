@@ -96,9 +96,9 @@ An API key will need to be generated from https://www.yelp.com/developers
 1. Run mysql from the command line (mysql -u root -p for ubuntu users) and
    initialize the database by running source /PATHTODIR/sql/initialize_tables.sql
 
-2. Quit out of the mysql command line and edit the /PATHTODIR/etl/etl.py file filling
+2. Quit out of the mysql command line and edit the /PATHTODIR/etl/mysql.py file filling
    in MySQL host, user, and password. Replace api_key with the api key you generated
-   from yelp
+   from yelp in the /PATHTODIR/etl/yelpapi.py file
 
 3. To fill the database run python3 etl.py: this will call yelp for all businesses
    found in California. You may edit location in the yelpapi call for different locations
