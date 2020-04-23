@@ -1,5 +1,6 @@
 mysql
-mysql-python
-mysqldb
+mysqlclient
+mysql-connector
+mysql-connector-python
 wikipedia
 yelpapi

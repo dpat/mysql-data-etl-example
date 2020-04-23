@@ -82,12 +82,10 @@ Make sure to install the libraries below as well
 python3-dev      
 build-essential
 libmysqlclient-dev
-default-libmysqlclient-dev
-libssl-dev
-ibffi-dev      
 libxml2-dev
 libxslt1-dev
 zlib1g-dev
+mysql-server
 ```
 Next python3-pip install requirements.txt file
 
